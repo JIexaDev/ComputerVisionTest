@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ComputerVisionTest:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ComputerVisionTest_jar</output-path>
+    <root id="archive" name="ComputerVisionTest.jar">
+      <element id="module-output" name="ComputerVisionTest" />
+    </root>
+  </artifact>
+</component>
